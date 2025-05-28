@@ -46,6 +46,7 @@ header a{
 
 header img {
         margin: auto;
+        border-radius: 150px;
 }
 
 header nav a:hover,
